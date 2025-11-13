@@ -40,19 +40,21 @@ Passionate about crafting seamless user experiences, I specialize in React and N
 
 ---
 
+---
+
 <div align="center">
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AbdElRahmanAwd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AbdElRahmanAwd&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AbdElRahmanAwd&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElRahmanAwd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdElRahmanAwd&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbdElRahmanAwd&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AbdElRahmanAwd&icon=0&color=0)](https://visitcount.itsvg.in)
